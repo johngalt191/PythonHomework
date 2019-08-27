@@ -130,7 +130,7 @@ def operate(operator,a,b):
         result = acos(a)
     elif operator == "sin":
         result = sin(a)
-    elif opeator == "asin":
+    elif operator == "asin":
         result = asin(a)
     elif operator == "tan":
         result = tan(a)

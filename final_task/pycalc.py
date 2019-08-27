@@ -117,9 +117,9 @@ def operate(operator,a,b):
     elif operator == "!=":
         result = a != b
     elif operator == "%":
-       result = a % b
+        result = a % b
     elif operator == "^":
-       result = a**b
+        result = a**b
     elif operator == "abs":
         result = abs(a)
     elif operator == "round":

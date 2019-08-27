@@ -42,7 +42,7 @@ def parse(string):
             if word == 'pi':
                 gather.append(pi)
             elif word == 'e':
-                gather.apeend(e)
+                gather.append(e)
             elif word.replace('.','').isdigit() and word.count('.')<2:
                 gather.append(float(word))
             elif word in trfunc:

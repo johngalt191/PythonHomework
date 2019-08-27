@@ -11,3 +11,4 @@ setup(
     entry_points={'console_scripts': ['pycalc=pycalc:main', ], },
     # packages=['pycalc_project']		# Required
     # python_requires='>3.0, <3.7'
+    )
